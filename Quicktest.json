@@ -1,13 +1,13 @@
 {
-  "contact": "r/greenlattice, U/xD-FireStriker & Fech Discord https://discord.gg/9QKKx6X",
+  "contact": "U/xD-FireStriker https://discord.gg/9QKKx6X",
   "templates": [
     {
       "name": "Fech",
       "sources": [
-        "https://cdn.discordapp.com/attachments/959558906705760286/1132249061706174524/fech1x1.png"
+        "https://cdn.discordapp.com/attachments/298612193052590091/1132200627301269504/fech1x1.png"
       ],
-      "x": 1502,
-      "y": 565
+      "x": 1556,
+      "y": 522
     },
   ],
   "whitelist": [],
