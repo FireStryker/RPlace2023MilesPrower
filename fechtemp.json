@@ -12,4 +12,16 @@
   ],
   "whitelist": [],
   "blacklist": []
+},
+    {
+      "name": "Fech Bottle",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/959558906705760286/1132239164012777502/uhmm2023.png"
+      ],
+      "x": 1558,
+      "y": 540
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
 }
