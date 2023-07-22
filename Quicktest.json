@@ -9,15 +9,6 @@
       "x": 1502,
       "y": 565
     },
-    {
-      "name": "Fech Bottle",
-      "sources": [
-        "https://media.discordapp.net/attachments/283523875403464705/1132247743151218778/uhmm2023.png"
-      ],
-      "x": 1557,
-      "y": 522
-    }
-  ],
   "whitelist": [],
   "blacklist": []
 }
