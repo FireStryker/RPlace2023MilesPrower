@@ -10,6 +10,11 @@
       "y": 848
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "Fech The Ferret",
+      "url": "https://raw.githubusercontent.com/FireStryker/RPlace2023MilesPrower/main/fechtemp.json"
+    }    
+  ],
   "blacklist": []
 }
