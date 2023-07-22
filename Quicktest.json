@@ -1,0 +1,23 @@
+{
+  "contact": "r/greenlattice, U/xD-FireStriker & Fech Discord https://discord.gg/9QKKx6X",
+  "templates": [
+    {
+      "name": "Fech",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/283523875403464705/1132202164001972254/fech1x1.png"
+      ],
+      "x": 1503,
+      "y": 567
+    },
+    {
+      "name": "Fech Bottle",
+      "sources": [
+        "https://media.discordapp.net/attachments/283523875403464705/1132247743151218778/uhmm2023.png"
+      ],
+      "x": 1550,
+      "y": 538
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
