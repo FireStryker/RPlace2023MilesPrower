@@ -1,0 +1,15 @@
+{
+  "contact": "U/xD-FireStriker https://discord.gg/9QKKx6X",
+  "templates": [
+    {
+      "name": "Fech",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/298612193052590091/1132200627301269504/fech1x1.png"
+      ],
+      "x": 1050,
+      "y": 490
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
