@@ -1,0 +1,20 @@
+{
+  "contact": "r/milesprower http://www.discord.gg/tails",
+  "templates": [
+    {
+      "name": "Sonic & Tails",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1133090808459968553/1133090920900857979/fgjghjkgu.png"
+      ],
+      "x": 2720,
+      "y": 1802
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "Fech The Ferret",
+      "url": "https://raw.githubusercontent.com/FireStryker/RPlace2023MilesPrower/main/fechtemp.json"
+    }    
+  ],
+  "blacklist": []
+}
