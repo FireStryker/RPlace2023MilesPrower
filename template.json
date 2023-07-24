@@ -2,12 +2,12 @@
   "contact": "r/milesprower http://www.discord.gg/tails",
   "templates": [
     {
-      "name": "Sonic & Tails",
+      "name": "Sonic",
       "sources": [
         "https://cdn.discordapp.com/attachments/1133090808459968553/1133090920900857979/fgjghjkgu.png"
       ],
-      "x": 2712,
-      "y": 1302
+      "x": 366,
+      "y": 1370
     }
   ],
   "whitelist": [
