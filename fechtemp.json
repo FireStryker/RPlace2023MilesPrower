@@ -2,12 +2,20 @@
   "contact": " r/greenlattice, Project Ookami, u/xD-FireStriker & Fech Discord https://discord.gg/9QKKx6X",
   "templates": [
     {
-      "name": "Fech + Okami",
+      "name": "Fech Standing + Okami/Fech Text",
       "sources": [
-        "https://cdn.discordapp.com/attachments/959558906705760286/1133359260277936208/FechOkami.png.png"
+        "https://cdn.discordapp.com/attachments/283523875403464705/1133369453124517898/FechOkami.png"
       ],
       "x": 711,
       "y": 0
+    },
+    {
+      "name": "Fech by Mico",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/283523875403464705/1133367219104002048/fechotherdesign.png"
+      ],
+      "x": 771,
+      "y": 18
     }
   ],
   "whitelist": [],
