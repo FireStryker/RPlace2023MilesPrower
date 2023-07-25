@@ -1,13 +1,15 @@
 {
-  "contact": "r/greenlattice, U/xD-FireStriker & Fech Discord https://discord.gg/9QKKx6X",
+  "contact": " r/greenlattice, Project Ookami, u/xD-FireStriker & Fech Discord https://discord.gg/9QKKx6X",
+{
+  "contact": "",
   "templates": [
     {
-      "name": "Fech",
+      "name": "Fech + Okami",
       "sources": [
-        "https://cdn.discordapp.com/attachments/283523875403464705/1133011090037555280/fech1x1.png"
+        "https://cdn.discordapp.com/attachments/959558906705760286/1133359260277936208/FechOkami.png.png"
       ],
-      "x": 715,
-      "y": -1
+      "x": 711,
+      "y": 0
     }
   ],
   "whitelist": [],
